@@ -44,7 +44,7 @@
   <br>
   <a href="https://validator.nu/?doc=http%3A%2F%2Fscs.ryerson.ca%2F~s9mehta%2Flab1%2Fmain.html">Link to validation report for this page(main page)</a>
   <br>
-  <a href="https://validator.nu/?doc=http%3A%2F%2Fscs.ryerson.ca%2F~s9mehta%2Flab1%2Ftechnicalreport.html">Link to validation report for technicalreport page</a>
+  <a href="https://validator.nu/?doc=http%3A%2F%2Fscs.ryerson.ca%2F~s9mehta%2Flab1%2Ftechnicalreport.html">Link to validation report for technical report page</a>
 
   <h2>Technical Report</h2>
   <a href="technicalreport.html">Technical Report for Main page</a>
