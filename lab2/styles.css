@@ -1,0 +1,59 @@
+@font-face
+{
+  font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+}
+
+.navbar-nav li a:hover {
+    color: #1abc9c !important;
+}
+
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.bg-1 {
+    background-color: #1abc9c; /* Green */
+    background-image: url("header.png");
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+}
+
+.bg-2 {
+    background-color: #474e5d; /* Dark Blue */
+    color: #ffffff;
+}
+.bg-3 {
+    background-color: #DCDCDC; /* White */
+    color: #555555;
+}
+
+.bg-4 {
+    background-color: #ffffff; /* Grey */
+    color: #555555;
+}
+
+
+h3.name
+{
+  font-weight: 300;
+}
+
+
+h3.studentno
+{
+  font-weight: 300;
+  font-style: italic;
+}
